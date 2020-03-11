@@ -1,0 +1,10 @@
+﻿Browser("Time Value of Money, Financial").Page("Time Value of Money, Financial").Link("HP 12C").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("Time Value of Money, Financial").Link("HP 12C")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Lump").Link("Lump Sums").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Lump").Link("Lump Sums")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Lump").Link("Annuities").Click @@ script infofile_;_ZIP::ssf3.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Annuities").Link("Uneven Cash Flows").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Annuities").Link("Uneven Cash Flows")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Uneven").Link("Non-Annual Time Periods").Click @@ script infofile_;_ZIP::ssf5.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Non-Annual").Link("Bond Valuation").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Non-Annual").Link("Bond Valuation")_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Bond Valuation").Link("Bond Yield Calculations").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Bond Valuation").Link("Bond Yield Calculations")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Time Value of Money, Financial").Page("HP 12C Bond Yield Calculations").Link("Make-whole Call Value").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Bond Yield Calculations").Link("Make-whole Call Value")_;_script infofile_;_ZIP::ssf8.xml_;_
+Browser("Time Value of Money, Financial").Page("Make-whole Call Provisions").Link("HP 12C FAQ").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("Make-whole Call Provisions").Link("HP 12C FAQ")_;_script infofile_;_ZIP::ssf9.xml_;_
+CloseLatestOpenedBrowser
