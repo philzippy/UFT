@@ -7,4 +7,4 @@ Browser("Time Value of Money, Financial").Page("HP 12C Tutorial - Non-Annual").L
 Browser("Time Value of Money, Financial").Page("HP 12C Bond Valuation").Link("Bond Yield Calculations").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Bond Valuation").Link("Bond Yield Calculations")_;_script infofile_;_ZIP::ssf7.xml_;_
 Browser("Time Value of Money, Financial").Page("HP 12C Bond Yield Calculations").Link("Make-whole Call Value").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("HP 12C Bond Yield Calculations").Link("Make-whole Call Value")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("Time Value of Money, Financial").Page("Make-whole Call Provisions").Link("HP 12C FAQ").Click @@ hightlight id_;_Browser("Time Value of Money, Financial").Page("Make-whole Call Provisions").Link("HP 12C FAQ")_;_script infofile_;_ZIP::ssf9.xml_;_
-CloseLatestOpenedBrowser
+'CloseLatestOpenedBrowser
